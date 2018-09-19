@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Psolr;
+namespace Spsolr;
 
 
 class Client implements ClientInterface
