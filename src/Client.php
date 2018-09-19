@@ -12,7 +12,7 @@
 namespace Spsolr;
 
 
-class Client implements ClientInterface
+class Client
 {
     const VERSION = '1.0.0';
 
